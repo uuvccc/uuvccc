@@ -1,4 +1,4 @@
-# 个人简介
+# 
 
 我是一名开发者，热衷于技术创新和解决问题。目前正在从事开发工作，不断学习最新的技术栈。
 
@@ -6,7 +6,7 @@
 
 ---
 
-# Personal Profile
+# 
 
 I am a developer passionate about technological innovation and problem-solving. Currently working in development, I continuously learn and adapt to the latest tech stacks.
 
@@ -15,4 +15,4 @@ I am actively seeking freelance opportunities while being open to collaboration 
 ## Contact Information
 
 - Email: slmgam@163.com
-- GitHub: https://github.com/wasd845
+- 
