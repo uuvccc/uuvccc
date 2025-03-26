@@ -1,10 +1,7 @@
-# 个人简介
 
 我希望能在开源项目上进行合作，同时也在寻求技术难题的解决方案。如果你有任何开发相关的问题，都可以向我咨询。
 
 ---
-
-# Personal Profile
 
 I am a developer passionate about technological innovation and problem-solving. Currently working in development, I continuously learn and adapt to the latest tech stacks.
 
@@ -23,4 +20,3 @@ I am actively seeking freelance opportunities while being open to collaboration 
 ## Contact Information
 
 - Email: slmgam@163.com
-- GitHub: https://github.com/wasd845
